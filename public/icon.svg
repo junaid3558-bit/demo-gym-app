@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#151719"/>
+  <rect x="24" y="24" width="464" height="464" rx="104" fill="#202326" stroke="#34393e" stroke-width="8"/>
+  <circle cx="256" cy="256" r="180" fill="#282c30" stroke="#b9f227" stroke-width="6"/>
+  <!-- Dumbbell Icon Graphic in Electric Lime -->
+  <g fill="#b9f227">
+    <rect x="140" y="236" width="232" height="40" rx="8" />
+    <!-- Center Grip ridges -->
+    <rect x="236" y="228" width="10" height="56" rx="4" fill="#151719"/>
+    <rect x="256" y="228" width="10" height="56" rx="4" fill="#151719"/>
+    <rect x="276" y="228" width="10" height="56" rx="4" fill="#151719"/>
+    <!-- Left weights -->
+    <rect x="110" y="170" width="36" height="172" rx="12" />
+    <rect x="74" y="196" width="30" height="120" rx="8" />
+    <circle cx="90" cy="256" r="14" fill="#151719"/>
+    <!-- Right weights -->
+    <rect x="366" y="170" width="36" height="172" rx="12" />
+    <rect x="408" y="196" width="30" height="120" rx="8" />
+    <circle cx="422" cy="256" r="14" fill="#151719"/>
+  </g>
+  <!-- Brand text badge -->
+  <text x="256" y="390" text-anchor="middle" fill="#f4f5f6" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" letter-spacing="4">IRONCORE</text>
+  <text x="256" y="420" text-anchor="middle" fill="#b9f227" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="20" letter-spacing="6">PRO ERP</text>
+</svg>

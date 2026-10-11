@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "IronCore Gym Pro",
+  "short_name": "IronCore",
+  "description": "Multi-Branch Gym Management & AI ERP for Android, iOS and Windows",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#151719",
+  "theme_color": "#151719",
+  "categories": ["fitness", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

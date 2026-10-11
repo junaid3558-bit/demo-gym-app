@@ -1,0 +1,6 @@
+{
+  "name": "IronCore Gym Pro - Multi-Branch Management & AI ERP",
+  "description": "Professional multi-branch gym management system for Android, iOS & Windows with offline local storage, UPI billing, member bodybuilding profiles, expense tracking, and Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
